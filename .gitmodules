@@ -1,3 +1,6 @@
 [submodule "chinese-copywriting-guidelines"]
 	path = chinese-copywriting-guidelines
 	url = https://github.com/sparanoid/chinese-copywriting-guidelines.git
+[submodule "recommended-books"]
+	path = recommended-books
+	url = https://github.com/woai3c/recommended-books.git
